@@ -1,1 +1,146 @@
-# anhtu1
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="google" content="nositelinkssearchbox" />
+    <meta name="description" content="Nguyễn Anh Tú" />
+    <meta name="robots">
+    <title>Bé Tú 2k12</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta2/css/all.min.css"
+        integrity="sha512-YWzhKL2whUzgiheMoBFwW8CKV4qpHQAEuvilg9FAn5VJUDwKZZxkJNuGM4XkWuk94WCrrwslk8yWNGmY1EduTA=="
+        crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet" href="tubattu.css">
+</head>
+<style>
+    body {
+  background-color: rgb(163, 114, 209);
+}
+.o1,
+.o3,
+.o4 {
+  width: 35px;
+  height: 35px;
+  border-radius: 50%;
+  border: #ffffff solid 2px;
+}
+.o2 {
+  width: 35px;
+  height: 35px;
+  border-radius: 10px 10px 10px 10px;
+  border: #ffffff solid 2px;
+}
+p:hover {
+  color: rgb(81, 81, 235);
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
+.a3:hover {
+  opacity: 1;
+  border: black solid 3px;
+}
+img:hover {
+  opacity: 1;
+  border: black solid 3px;
+  margin-top: 3%;
+}
+h3:hover {
+  color: rgb(24, 216, 241);
+}
+h2:hover {
+  color: rgb(202, 46, 189);
+}
+a:hover {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  color: rgb(245, 0, 192);
+}
+h2,
+h3 {
+  text-align: center;
+  font-family: "Courier New", Courier, monospace;
+}
+.a2 {
+  width: 50%;
+  margin-left: 25%;
+  background-image: url(https://1.bp.blogspot.com/-61RzUYAAZBk/XpiFcSK7WvI/AAAAAAAAgdY/fO8DawzaJg4JUrJxZ129mVKpKySNq0z-wCLcBGAsYHQ/s1600/Hinh-Nen-Son-Goku-Dep-Nhat%2B%25287%2529.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  opacity: 100%;
+  text-align: center;
+  border-radius: 10px 10px 10px 10px;
+  height: 700px;
+}
+.a3 {
+  width: 170px;
+  height: 170px;
+  border-radius: 50%;
+  border: white solid 4px;
+  margin-top: 10px;
+}
+.d1 {
+  font-size: 22px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+a {
+  text-decoration: none;
+  color: black;
+  font-size: 40px;
+  float: left;
+  margin-left: 28%;
+  margin-top: 30px;
+}
+@media only screen and (max-width: 46.1875em) {
+  .a2 {
+    width: 100%;
+    float: left;
+    margin-left: 0px;
+    height: 700px;
+  }
+  button {
+    margin-top: 100px;
+    float: left;
+  }
+  a {
+    font-size: 15px;
+    float: left;
+    margin-left: 80px;
+  }
+  .a3 {
+    align-items: center;
+    width: 100px;
+    height: 100px;
+  }
+
+  .o1,
+  .o2,
+  .o3,
+  .o4 {
+    width: 30px;
+    height: 30px;
+  }
+}
+
+</style>
+<body>
+    <div class="a1">
+        <h2>Nguyễn Anh Tú</h2>
+        <h3>( Tú đẹp trai )</h3>
+        
+        <div class="a2">
+            <img src="https://i.imgur.com/T1Gvbhu.jpeg" alt="" class="a3">
+            <h2>Nguyễn Anh Tú</h2>
+            <p class="d1">Hello!!! I am Tu Handsome....</p>
+<a href="https://www.facebook.com/NguyenAnhTuisMyname"> <img src="https://i.imgur.com/AVtqDmE.png" alt="" class="o1"> Nguyễn Anh Tú</a>
+<br> <br> 
+<a href="https://www.instagram.com/nguyenanhtu_2002/"><img src="https://i.imgur.com/NcHyocO.png" alt="" class="o2"> nguyenanhtu_2002</a>
+<br><br> 
+<a href="https://www.facebook.com/messages/t/100025508823320"><img src="https://i.imgur.com/wpa3tb8.png" alt="" class="o3"> Nguyễn Anh Tú</a>
+<br> <br> 
+<a> <img src="https://i.imgur.com/Sx9cN9T.png" alt="" class="o4"> 0397981415</a>
+        </div>
+    </div>
+</body>
+
+</html>
